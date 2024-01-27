@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+    color: #121212;
+}
+#container{
+    width: 994px;
+    height: 1205px;
+    background-color: #171717;
+}
+#header, .nav{
+    font-family: Arial, sans-serif;
+}
+#header{
+    height: 80px;
+    margin: 0 9px;
+    background-color: #1A1A1A;
+}
+.logo{
+    margin: 14px 0 0 5px;
+}
+#header p{
+    margin: 29px 5px 0 579px;
+    display: inline-block;
+    vertical-align: top;
+    color: #D5D6D4;
+    font-weight: bold;
+    font-size: .95em;
+}
+.nav{
+    height: 40px;
+    margin: 0 9px;
+    background-color: #585858;
+    background: linear-gradient(#585858,#121212);
+}
+.nav p {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    color: #A1A7A4;
+    padding: 0 15px;
+    font-size: .75em;
+    font-weight: bold;
+}
+.span{
+    width: 2px;
+    height: 26px;
+    margin: 7px 0;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #525252;
+    box-shadow: 1px 1px inset;
+    border-radius: 5px;
+}
+.span:last-of-type {
+    height: 40px;
+    margin: 0 0 0 390px;
+}
+#main_img{
+    display: block;
+    padding: 0 9px;
+}
+.buffer{
+    height: 5px;
+    margin: 0 9px;
+    background-color: #3B3B3B;
+}
+#content{
+    height: 150px;
+    margin: 0 9px;
+    background-color: #1A1A1A;
+    padding-left: 15px;
+}
+#content img{
+    display: inline-block;
+    vertical-align: top;
+    margin: 25px 0;
+}
+.BlahBlah{
+    width: 165px;
+    vertical-align: top;
+    display: inline-block;
+    margin: 30px 10px;
+}
+.BlahBlah p{
+    font-size: .8em;
+    line-height: 1.5em;
+    margin-top: 5px;
+    color: #CFCFCF;
+    font-family: Arial, sans-serif;
+}
+.BlahBlah h2{
+    font-size: 1.1em;
+    color: #F3852C;
+}
+.buy-now{
+    height: 150px;
+    margin: 0 9px;
+    color: white;
+    background: black;
+}
+.buy-text{
+    width: 676px;
+    margin: 35px 0;
+    display: inline-block;
+    padding-left: 30px;
+    font-family: Arial, sans-serif;
+}
+.filler-text{
+    font-size: .9em;
+    color: #B0B0A1;
+}
+.title{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #F2F2F2;
+}
+.buy-button{
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 1.1em;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin: 55px 30px 55px 116px;
+    background-color: orange;
+    border-radius: 5px;
+}
+.portfolio-header p{
+    width: 478px;
+    height: 80px;
+    line-height: 80px;
+    background-color: #1A1A1A;
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+}
+.portfolio-header p:first-child{
+    margin-left: 9px;
+    font-size: 1.2em;
+    padding-left: 10px;
+    color: #F2F2F2;
+}
+.portfolio-header p:last-child{
+    margin-right: 9px;
+    text-align: right;
+    font-size: 0.75em;
+    color: #F3852C;
+    font-family: Arial, sans-serif;
+}
+#Works-container{
+    margin: 0 9px;
+}
+.Works {
+    width: 222px;
+    vertical-align: top;
+    display: inline-block;
+    margin: 0 9px;
+}
+.Works img{
+    width: 220px;
+    border: 5px solid #363636;
+}
+.Works h3{
+    color: #F3852C;
+    margin: 10px 0;
+}
+.Works p{
+    color: white;
+    font-size: 0.76em;
+    line-height: 18px;
+    color: #CFCFCF;
+    font-family: Arial, sans-serif;
+}
+#Top{
+    font-size: .65em;
+    text-align: right;
+    line-height: 80px;
+    color: #7C7865;
+    margin-right: 15px;
+    font-family: Arial, sans-serif;
+}
